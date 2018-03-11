@@ -5,3 +5,4 @@ step 4: git add .
 step 5:git status
 step 6:git commit -m "comment"
 step 7:git push -u origin master.
+step 8: create a pull request on ur repository
