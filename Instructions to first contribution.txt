@@ -5,3 +5,6 @@ step 4: git add .
 step 5:git status
 step 6:git commit -m "comment"
 step 7:git push -u origin master.
+
+
+for any more changes just google the error and continue
