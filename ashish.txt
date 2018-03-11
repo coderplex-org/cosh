@@ -1,0 +1,6 @@
+I am Ashish
+Currently I am pursuing my btech from
+St Martins Engineering College.
+I am a computer science student.
+And now I am learning how to use git hub.
+And learning pull request
