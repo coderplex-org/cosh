@@ -1,0 +1,8 @@
+step 1: first go to github.com/coderplex/cosh
+step 2: click on fork and then clone.Copy the url and use command [git clone "url"]
+step 3: in the terminal for linux users and bash for windows users use the command "git status"
+step 4: git add .
+step 5:git status
+step 6:git commit -m "comment"
+step 7:git push -u origin master.
+step 8: create a pull request on ur repository
