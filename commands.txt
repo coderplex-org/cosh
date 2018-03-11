@@ -1,0 +1,10 @@
+--->beginning of a new git project on ur machine
+
+git init
+ git clone <url of ur repository>
+ <after you do ur changes>
+ git set-url origin <url of ur repository>
+ git add .
+ git status
+ git commit -m " <ur message>"
+ git origin push origin master
